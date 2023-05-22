@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📚 I'm currently studying computer science at The University of Alabama in Huntsville
+- 🔭 I’m currently working in React with Typescript
+
+[![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
+
 <!--
 **salsajeries/salsajeries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

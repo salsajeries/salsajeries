@@ -5,7 +5,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
 
-<figure><embed src="https://wakatime.com/share/@salwajeries/37ebe603-5a94-49ed-a6e8-05aa3ed103a1.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **salsajeries/salsajeries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

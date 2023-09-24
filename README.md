@@ -6,6 +6,14 @@
 [![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java       1 hr 58 mins    ███████████████░░░░░░░░░░   59.40 %
+Rust       1 hr 20 mins    ██████████░░░░░░░░░░░░░░░   40.26 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--

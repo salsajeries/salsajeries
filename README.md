@@ -8,8 +8,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Stats over the last 7 days:
-
 Java       1 hr 58 mins    ███████████████░░░░░░░░░░   59.40 %
 Rust       1 hr 20 mins    ██████████░░░░░░░░░░░░░░░   40.26 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %

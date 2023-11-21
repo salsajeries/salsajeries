@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   3 hrs 57 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - 📚 I'm currently studying computer science at The University of Alabama in Huntsville
-- 🔭 I’m currently working in React with Typescript
+- 🔭 I love working on frontend development in React with Typescript
 
 [![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
 
 <!--START_SECTION:waka-->
 
+Last 7 Days:
 ```txt
 TypeScript   7 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
 PHP          6 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.83 %

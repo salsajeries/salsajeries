@@ -7,7 +7,6 @@
 
 <!--START_SECTION:waka-->
 
-Last 7 Days:
 ```txt
 TypeScript   7 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
 PHP          6 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.83 %

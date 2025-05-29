@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       32 mins         ████████████████████░░░░░   80.65 %
-Groovy     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Gradle     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 📚 I'm currently studying computer science at The University of Alabama in Huntsville
-- 🔭 I love working on frontend development in React with Typescript
+- 💻 I'm a software developer @ Botts Innovative Research
+- 🔭 I love working on frontend development & dabble in UI/UX design
+- ❤️ My current favs are React > Typescript
 
 <!--[![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)-->
 

@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             57 mins         ███████████████████████░░   91.54 %
+Groovy           4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Gradle           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
